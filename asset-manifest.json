@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KarimA-GIS/mapApp/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/KarimA-GIS/mapApp/static/js/main.39327f25.chunk.js",
+    "main.js.map": "/KarimA-GIS/mapApp/static/js/main.39327f25.chunk.js.map",
+    "runtime-main.js": "/KarimA-GIS/mapApp/static/js/runtime-main.8de58db0.js",
+    "runtime-main.js.map": "/KarimA-GIS/mapApp/static/js/runtime-main.8de58db0.js.map",
+    "static/js/2.9521fbcd.chunk.js": "/KarimA-GIS/mapApp/static/js/2.9521fbcd.chunk.js",
+    "static/js/2.9521fbcd.chunk.js.map": "/KarimA-GIS/mapApp/static/js/2.9521fbcd.chunk.js.map",
+    "index.html": "/KarimA-GIS/mapApp/index.html",
+    "precache-manifest.9cad4e989c8346fd60a49b421278688c.js": "/KarimA-GIS/mapApp/precache-manifest.9cad4e989c8346fd60a49b421278688c.js",
+    "service-worker.js": "/KarimA-GIS/mapApp/service-worker.js",
+    "static/css/main.f6cffc85.chunk.css.map": "/KarimA-GIS/mapApp/static/css/main.f6cffc85.chunk.css.map",
+    "static/js/2.9521fbcd.chunk.js.LICENSE.txt": "/KarimA-GIS/mapApp/static/js/2.9521fbcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de58db0.js",
+    "static/js/2.9521fbcd.chunk.js",
+    "static/css/main.f6cffc85.chunk.css",
+    "static/js/main.39327f25.chunk.js"
+  ]
+}
